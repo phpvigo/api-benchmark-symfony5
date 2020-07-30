@@ -1,0 +1,14 @@
+.dockerignore
+.git
+.gitignore
+.idea
+Dockerfile
+LICENSE
+README.md
+/.env.local
+/.env.local.php
+/.env.*.local
+/config/secrets/prod/prod.decrypt.private.php
+/public/bundles/
+/var/
+/vendor/
